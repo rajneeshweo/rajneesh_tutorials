@@ -1,1 +1,2 @@
-# rajneesh_tutorials
+# rajneesh_tutorials  
+this is only for tutorials purpose
